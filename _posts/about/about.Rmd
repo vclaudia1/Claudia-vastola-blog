@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Claudia Vastola" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
+Claudia Vastola, Ms. Ingrid VAN LANCKER, group 1 2020-21
 
-- first name/surname, teacher’s name, class name and academic year
+
