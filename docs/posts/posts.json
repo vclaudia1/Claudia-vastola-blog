@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/about/",
+    "title": "About Me",
+    "description": {},
+    "author": [
+      {
+        "name": "Claudia Vastola",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-08",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-08T12:05:18+02:00"
+  },
+  {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
     "title": "Bacterium adaptation",
     "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
@@ -52,21 +67,6 @@
       "Paleontology",
       "Rodent"
     ],
-    "preview": {},
-    "last_modified": "2020-10-08T11:36:52+02:00"
-  },
-  {
-    "path": "posts/about/",
-    "title": "About Me",
-    "description": {},
-    "author": [
-      {
-        "name": "___",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [],
     "preview": {},
     "last_modified": "2020-10-08T11:36:52+02:00"
   },
