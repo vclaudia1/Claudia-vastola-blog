@@ -52,25 +52,25 @@ Word count: 783
 ## III – Analysis table about the study:
 
 
+|:----------:|:-------------:|:------:|
 | Researchers? | DZNE - German Center for Neurodegenerative Diseases
 Mikael Simons together with Giuseppe Balistreri's group at the University of Helsinki.|
-|:----------:|:-------------:|:------:|
 | Published in? when (if mentioned)? |Journal Science | 
 | General topic | The coronavirus SARS-CoV-2 and how he enters the cell. |
-|Procedure/what was examined | 1)	Availability of docking sites
-2)	Spike proteins
--	Insertion of a furin cleavage site 
--	Amino acid sequence 
--	Bind to neuropilins at the cell surface 
-3)	Cells cultured in the laboratory 
--	Artificial viruses that mimick SARS-CoV-2 + Naturally occurring virus 
--	Blocking neuripilin-1 with antibodies 
-4)	Tissue samples from deceased patients 
-5)	Mice
--	Nanoparticles of the virus administered to the nose |
+|Procedure/what was examined | + 1)	Availability of docking sites
++ 2)	Spike proteins
++ -	Insertion of a furin cleavage site 
++ -	Amino acid sequence 
++ -	Bind to neuropilins at the cell surface 
++ 3)	Cells cultured in the laboratory 
++ -	Artificial viruses that mimick SARS-CoV-2 + Naturally occurring virus 
++ -	Blocking neuripilin-1 with antibodies 
++ 4)	Tissue samples from deceased patients 
++ 5)	Mice
++ -	Nanoparticles of the virus administered to the nose |
 | Conclusions/discovery | Coronavirus SARS-CoV-2:
--	infect cells via the receptor ACE2. |
--	Facilitated entrance with neuropilin-1 |
++ -	infect cells via the receptor ACE2. |
++ -	Facilitated entrance with neuropilin-1 |
 |Remaining questions | A starting point for future therapies? | 
 
 
