@@ -6,6 +6,7 @@ author:
   - name: Claudia Vastola
     url: {}
 date: 10-26-2020
+preview : Coronavirus1
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +16,29 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Article 1: Coronavirus: Study finds further door opener into the cell
+
+
+## I – Source of the article with publication date and word count:
+
+
+Source of the article:  <https://www.sciencedaily.com/releases/2020/10/201020105526.htm> 
+(20/10/2020)
+
+
+Word count: 783
+
+
+!
+
+
+## II – Vocabulary: 
+
+
+⎟ Word from the text ⎟ Synonym/definition in English ⎟ French translation ⎟
+⎟ SARS-CoV-2 ⎟ Severe acute respiratory syndrome coronavirus 2 ⎟ SARS-CoV-2 ⎟ 
+⎟ ACE2 ⎟ Angiotensin-converting enzyme 2 ⎟ ACE2 ⎟
+⎟ Neuropilin -1 ⎟  protein that in humans is encoded by the NRP1 gene ⎟ Neuropilin-1 ⎟ 
+⎟ outbreak ⎟ a sudden occurrence or appearance ⎟ Déclenchement/poussée  ⎟
 
