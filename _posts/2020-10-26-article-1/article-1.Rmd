@@ -49,8 +49,7 @@ Word count: 783
 ## III – Analysis table about the study:
 
 
-| Researchers? | DZNE German Center for Neurodegenerative Diseases
-Mikael Simons together with Giuseppe Balistreri's group at the University of Helsinki.|
+| Researchers? | DZNE German Center for Neurodegenerative Diseases. Mikael Simons together with Giuseppe Balistreri's group at the University of Helsinki.|
 |:----------:|:-------------:|
 | Published in? when (if mentioned)? |Journal Science | 
 | General topic | The coronavirus SARS-CoV-2 and how he enters the cell. |
