@@ -1,5 +1,35 @@
 [
   {
+    "path": "posts/2020-10-26-article-1/",
+    "title": "Article 1",
+    "description": "This article is about the Coronavirus and how it gets inside the cell.",
+    "author": [
+      {
+        "name": "Claudia Vastola",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-26T19:02:27+01:00"
+  },
+  {
+    "path": "posts/2020-10-26-mon-article/",
+    "title": "Article 1 : Coronavirus: Study finds further door opener into the cell",
+    "description": "This article is about the coronavirus and how it gets inside the cell",
+    "author": [
+      {
+        "name": "Claudia Vastola",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-26T18:28:29+01:00"
+  },
+  {
     "path": "posts/about/",
     "title": "About Me",
     "description": {},
