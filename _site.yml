@@ -15,7 +15,7 @@ base_url: vclaudia1.github.io/Claudia-vastola-blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      #disqus: claudia-vastolas-blog
 output:
   distill::distill_article:
     css: style.css
