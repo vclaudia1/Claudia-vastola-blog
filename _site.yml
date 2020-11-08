@@ -16,7 +16,7 @@ collections:
     posts:
     disqus: claudia-vastolas-blog
       share: [twitter, linkedin, facebook]
-      #disqus: claudia-vastolas-blog
+      #disqus: 
 output:
   distill::distill_article:
     css: style.css
