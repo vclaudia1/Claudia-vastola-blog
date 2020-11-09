@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>vclaudia1.github.io/Claudia-vastola-blog/</loc>
+    <loc>https://vclaudia1.github.io/Claudia-vastola-blog/</loc>
     <lastmod>2020-10-08T11:41:04+02:00</lastmod>
   </url>
   <url>
-    <loc>vclaudia1.github.io/Claudia-vastola-blog/posts/2020-10-26-article-1/</loc>
+    <loc>https://vclaudia1.github.io/Claudia-vastola-blog/posts/2020-10-26-article-1/</loc>
     <lastmod>2020-10-28T21:08:48+01:00</lastmod>
   </url>
   <url>
-    <loc>vclaudia1.github.io/Claudia-vastola-blog/posts/about/</loc>
+    <loc>https://vclaudia1.github.io/Claudia-vastola-blog/posts/about/</loc>
     <lastmod>2020-10-08T12:05:18+02:00</lastmod>
   </url>
 </urlset>

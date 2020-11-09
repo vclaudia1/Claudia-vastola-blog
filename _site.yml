@@ -10,8 +10,8 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/vclaudia1/Claudia-vastola-blog.git
-base_url: vclaudia1.github.io/Claudia-vastola-blog/
+      href: https://github.com/vclaudia1/Claudia-vastola-blog
+base_url: https://vclaudia1.github.io/Claudia-vastola-blog/
 collections:
     posts:
       disqus: claudia-vastolas-blog
