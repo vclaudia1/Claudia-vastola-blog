@@ -1,7 +1,7 @@
 ---
-title: "Article 2"
+title: "Article 2 : Study confirms 'classic' symptoms of COVID-19"
 description: |
-  A short description of the post.
+  This article talks about the most prevalent symptoms associated with COVID-19, according to a major review of the scientific literature.
 author:
   - name: Claudia Vastola
     url: {}
