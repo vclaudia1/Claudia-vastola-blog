@@ -27,20 +27,19 @@ Source of the article:  <https://www.sciencedaily.com/releases/2020/06/200624100
 
 Word count: 425
 
+
+
 ## II – Vocabulary: 
 
 
 | Word from the text | Synonym/definition in English | French translation | 
 |:----------:|:-------------:|:------:|
-| Ratifies | Severe acute respiratory syndrome coronavirus 2 | SARS-CoV-2 |
-| ACE2 | Angiotensin-converting enzyme 2 | ACE2 |
-| Neuropilin -1 | protein that in humans is encoded by the NRP1 gene | Neuropilin-1 |
-| outbreak | a sudden occurrence or appearance | Déclenchement/poussée |
-| Viral shedding | expulsion and release of virus progeny following successful reproduction during a host-cell infection | excrétion virale |
-| tropism | indicating a tendency to turn or develop in response to a certain stimulus | tropisme |
-| Docking sites | The substrate specificities of protein kinases have been found, in many cases, to be determined at least in part by short regions within the substrate | sites d'amarrages |
-| furin | Enzyme that in humans is encoded by the FURIN gene | furine |
-| Thus | in the way just indicated | Par conséquent |
+| **Ratifies** | Confirm, approve | ratifier |
+| **Acknowledge** | recognise | reconnaitre |
+| **prevalence** | having greater power;
+dominant | prévalence |
+| **Intense care unit** | the specialized center in a hospital where intensive care is provided. | unité de soins intensifs |
+| **Ensures** | secure,garantee | assurer |
 
 
 ## III – Analysis table about the study:
