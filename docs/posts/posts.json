@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-12-03-article-2/",
+    "title": "Article 2",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Claudia Vastola",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-03T10:37:32+01:00"
+  },
+  {
     "path": "posts/2020-10-26-article-1/",
     "title": "Article 1 : Coronavirus: Study finds further door opener into the cell",
     "description": "This article is about the Coronavirus and how it gets inside the cell.",
