@@ -5,7 +5,7 @@ description: |
 author:
   - name: Claudia Vastola
     url: {}
-date: 14-12-2020
+date: 12-14-2020
 preview : Coronavirus1
 output:
   distill::distill_article:
