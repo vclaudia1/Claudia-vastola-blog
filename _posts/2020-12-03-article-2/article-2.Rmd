@@ -42,6 +42,7 @@ Word count: 425
 dominant | prévalence |
 | **Intense care unit** | the specialized center in a hospital where intensive care is provided. | unité de soins intensifs |
 | **Ensures** | secure,garantee | assurer |
+| **Extra-corporeal** | occurring or situated outside the body, as a heart-lung machine used to oxygenate the blood during surgery | extracorporel |
 
 
 ## III – Analysis table about the study:
@@ -67,29 +68,32 @@ A persistent cough and fever have been confirmed as the most prevalent symptoms 
 **Procedure/what was examined** 
 
 
-1. Availability of docking sites 
-2. Spike proteins 
-    * Insertion of a furin cleavage site
-    * Amino acid sequence
-    * Bind to neuropilins at the cell surface 3. Cells cultured in the laboratory
-    * Artificial viruses that mimick SARS-CoV-2 + Naturally occurring virus
-    * Blocking neuripilin-1 with antibodies 
-4. Tissue samples from deceased patients 
-5. Mice
-    * Nanoparticles of the virus administered to the nose
-    
-    
+1. 148 separate studies (more than 21,000 patients from nine countries) :
+    * 78 percent had a fever
+    * 57 percent reported a cough
+    * 31 percent said they had suffered fatigue
+    * 25 percent lost the ability to smell
+    * 23 percent reported difficulty breathing
+2. Hospital treatment :
+    * 17 percent neede non invasive help with their breathing 
+    * 19 percent had to be in the intensive care unit
+    * 9 percent required invasive ventilation 
+    * 2 percent needed an artificial lung
+
+
+
 **Conclusions/discovery**   
 
-Coronavirus SARS-CoV-2:
+ 
+The most prevalent symptoms are : 
 
 
-- infect cells via the receptor ACE2.
-- Facilitated entrance with neuropilin-1 
-    
-    
-**Remaining questions**   
-
-
-
+* Cough
+* Fever
+* Fatigue
+* Losing the ability to smell
+* Difficulty in breathing 
+ 
+ 
+**Remaining questions**   ///
 
