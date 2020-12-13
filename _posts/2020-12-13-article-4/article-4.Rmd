@@ -6,6 +6,7 @@ author:
   - name: Claudia Vastola
     url: {}
 date: 12-14-2020
+preview : Coronavirus1
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +16,5 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
 
