@@ -1,0 +1,99 @@
+---
+title: "Article 3: Chemists discover the structure of a key coronavirus protein"
+description: |
+  the discovery of the protein E in the SARS-CoV-2 virus. 
+author:
+  - name: Claudia Vastola
+    url: {}
+date: 12-13-2020
+preview : Coronavirus1
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## Article 3: Chemists discover the structure of a key coronavirus protein
+
+
+## I – Source of the article with publication date and word count:
+
+
+Source of the article:  <https://www.sciencedaily.com/releases/2020/11/201112155840.htm> (12/11/2020)
+
+
+Word count: 789
+
+## II – Vocabulary: 
+
+
+| Word from the text | Synonym/definition in English | French translation | 
+|:----------:|:-------------:|:------:|
+| **Devise** | invent :idea, plan | imaginer, inventer |
+| **Postdoc** | postdoctoral | postdoctoral |
+| **Embedded** | set inside | enfoncé, incrusté |
+| **Influenza** | flu | grippe |
+| **Bundle** | bunch, group | paquet |
+
+
+## III – Analysis table about the study:
+
+
+**Researchers?** 
+
+National Institutes of Health and the MIT School of Science Sloan Fund. (Mei Hong, Venkata Mandala and Alexander Shcherbakov and Aurelio Dregni, and Antonios Kolocouris)
+
+
+**Published in? when (if mentioned)?**  
+
+
+Massachusetts Institute of Technology 
+
+
+**General topic**  
+
+Chemists have determined the molecular structure of a protein found in the SARS-CoV-2 virus. 
+
+
+**Procedure/what was examined** 
+
+
+1. The binding sites of two drugs:
+    * block the channel but only weakly
+    * not be effective inhibitors of the E protein
+2. Influenza B M2
+    * which taught them how to clone, express, and purify a virus membrane protein from scratch
+    * perfect training ground for studying SARS-CoV-2 E
+    
+3. Clone and purify the E protein 
+    * In two and half months
+    * Structure:
+        - embedded it into a lipid bilayer and then analyzed it with NMR
+        - assembles into a bundle of five helice
+        - create a tight channel
+4. Amino acids at one end of the channel that may attract positively charged ions (calcium) 
+5. Two drugs :
+    * amantadine, used to treat influenza
+    * hexamethylene amiloride, used to treat high blood pressure
+    * can block the entrance of the E channel
+    * but only weakly 
+
+
+    
+**Conclusions/discovery**   
+
+The molecular structure of a protein in the SARS-CoV-2 virus:
+
+
+- forms a cation-selective channel
+- virus's ability to replicate itself 
+    
+    
+**Remaining questions**  How to block the channel? 
+
+
+
+
+
