@@ -28,6 +28,9 @@ Source of the article:  <https://www.sciencedaily.com/releases/2020/06/200624100
 Word count: 425
 
 
+![Coronavirus](///media/sf_shared/projects/Claudia-vastola-blog/images/covid.png)
+
+
 ## II – Vocabulary: 
 
 
@@ -35,8 +38,7 @@ Word count: 425
 |:----------:|:-------------:|:------:|
 | **Ratifies** | Confirm, approve | ratifier |
 | **Acknowledge** | recognise | reconnaitre |
-| **prevalence** | having greater power;
-dominant | prévalence |
+| **prevalence** | having greater power | dominant, prévalence |
 | **Intense care unit** | the specialized center in a hospital where intensive care is provided. | unité de soins intensifs |
 | **Ensures** | secure,garantee | assurer |
 | **Extra-corporeal** | occurring or situated outside the body, as a heart-lung machine used to oxygenate the blood during surgery | extracorporel |
