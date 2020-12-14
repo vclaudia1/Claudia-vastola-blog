@@ -22,9 +22,12 @@ SciViews::R
 urchin_bio <- read("urchin_bio", package = "data.io", lang = "AN")
 ```
 
-The following graphic is about an urchin
+The following graphic is about urchins
 
 ```{r graphique}
 chart(data = urchin_bio, weight ~ origin %fill=% origin) +
   geom_violin()
 ```
+This graphic shows that wild sea urchins are less heavy then the farm urchins. 
+We can see that the fishery ones do not weight more than 75g and the farm ones can go up to 100g.
+
