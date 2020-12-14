@@ -3,7 +3,6 @@ title: "Graphic Description"
 description: |
   A description of a graphic.
 categories:
-  - Coronavirus
   - Data Sciences I
 author:
   - name: Claudia Vastola
@@ -14,10 +13,6 @@ output:
   distill::distill_article:
     self_contained: false
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 ```{r setup}
 SciViews::R

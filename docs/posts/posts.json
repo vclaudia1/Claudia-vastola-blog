@@ -46,8 +46,8 @@
   },
   {
     "path": "posts/2020-11-11-graphicdescription/",
-    "title": "graphic_description",
-    "description": "A short description of the post.",
+    "title": "Graphic Description",
+    "description": "A description of a graphic.",
     "author": [
       {
         "name": "Claudia Vastola",
@@ -55,9 +55,13 @@
       }
     ],
     "date": "2020-11-11",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-12-14T19:43:57+01:00"
+    "categories": [
+      "Data Sciences I"
+    ],
+    "preview": "posts/2020-11-11-graphicdescription/graphicdescription_files/figure-html5/graphique-1.png",
+    "last_modified": "2020-12-14T23:21:36+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
   },
   {
     "path": "posts/2020-10-26-article-1/",
