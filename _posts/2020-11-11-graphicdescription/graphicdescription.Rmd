@@ -1,11 +1,10 @@
 ---
 title: "Graphic Description"
 description: |
-  A description of a graphic, in order to fulfill the “Data Science I” course instructions
+  A description of a graphic.
 categories:
   - Coronavirus
   - Data Sciences I
-
 author:
   - name: Claudia Vastola
     url: {}
@@ -19,13 +18,21 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-The following graphic is about a biometry
 
-
-```{r importation}
-biometry <- read("biometry", package = "BioDataScience1", lang = "fr")
+```{r setup}
+SciViews::R
 ```
 
+```{r importation}
+Zooplankton <- read("zooplankton", package = "data.io", lang = "AN")
+```
+
+The following graphic is about a zooplankton 
+
 ```{r graphique}
-chart()
+chart(data = Zooplankton, ~ size %fill=% class ) +
+  geom_bar(width = 1) + 
+  coord_polar("y", start = 0) +
+  theme_void() +
+  scale_fill_viridis_d()
 ```
