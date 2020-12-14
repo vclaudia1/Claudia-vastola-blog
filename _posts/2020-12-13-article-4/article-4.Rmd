@@ -1,7 +1,7 @@
 ---
-title: "article 4"
+title: "Article 4: Immunity to COVID-19 may persist six months or more"
 description: |
-  A short description of the post.
+  this article talks about how the immunity in some patients is present even after six months.
 author:
   - name: Claudia Vastola
     url: {}
@@ -17,4 +17,100 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+## Article 4: Immunity to COVID-19 may persist six months or more
+
+
+## I – Source of the article with publication date and word count:
+
+
+Source of the article:  <https://www.sciencenews.org/article/covid-19-immunity-antibodies-persist-six-months-coronavirus> (24/11/2020)
+
+
+Word count: 972
+
+## II – Vocabulary: 
+
+
+| Word from the text | Synonym/definition in English | French translation | 
+|:----------:|:-------------:|:------:|
+| **Uncovering** | act or revealing | découverte |
+| **To refine** | process: improve | affiner |
+| **Bodes** | protend | présager |
+| **Cache** | to hide or store in a cache | cache |
+| **Arsenal** | a collection or supply of anything; store | arsenal |
+| **Waned** | decline over time | décliner |
+| **Assessment** | evaluation | estimation |
+| **Latch onto** | cling | s'accrocher |
+| **Stool** | excrement | selles |
+| **Adorned** | decorate | orner |
+
+
+## III – Analysis table about the study:
+
+
+**Researchers?** 
+
+Julio Lorenzi (viral immunologist at the Rockefeller University in New York City) and Nina Luning Prak (immunologist at the University of Pennsylvania)
+
+
+**Published in? when (if mentioned)?**  
+
+
+bioRxiv.org (5/11/2020 and 16/11/2020)
+
+
+**General topic**  
+
+After 6 months (or even more) some patients, who had the coronavirus, are still immune to it. Due to the immune proteins that are still detectable in the blood.
+
+
+**Procedure/what was examined** 
+
+
+Lorenzi:
+
+
+1. Analyses of the antibodies of 87 people at one and six months after the symptoms 
+    * Immune proteins were still detectable in the blood after six months
+    * Levels of memory B cells were stable 
+2. Other studies show:
+    * B cells can persist for more than six months in recovered patients
+    * Memory B cells (as well as others) decline slowly in the blood
+    * Could mean that immunity might last for a year for some people
+    * Antibodies generate proteins that recognize the coronavirus 
+    * In the cells of 6 people there were changes in the genetic instructions 
+    * B cells were making new variations 
+3. Antibodies:
+    * Some stopped the infections of new cells 
+    * Some attached to the virus 
+
+
+Luning Prak:
+
+
+1. First study:
+    * antibody-generating B cells were poorly trained to make the immune proteins 
+    * B cells learn to make better antibodies
+    * Proteins stays hidden in the gut after the virus 
+    *Presence of the virus genetic in the stool of some infected people
+2. New study:
+    * 14 recovered patients 
+    * Presence of the virus in their intestinal tissue
+    * Intact virus particles adorned with a crown of spike proteins
+
+    
+    
+**Conclusions/discovery**   
+
+Immune proteins:
+
+
+-	Still in the blood after six months
+-	B cells can persist 
+-	Antibodies can recognize the virus
+-	Virus present int the stool of some patients 
+
+    
+    
+**Remaining questions**  Are the viral bits in the gut helping the immune system evolve to better recognise the virus? 
 
