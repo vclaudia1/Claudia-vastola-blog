@@ -1,7 +1,7 @@
 ---
 title: "Article 4: Immunity to COVID-19 may persist six months or more"
 description: |
-  this article talks about how the immunity in some patients is present even after six months.
+  This article talks about how the immunity in some patients is present even after six months.
 author:
   - name: Claudia Vastola
     url: {}
@@ -89,7 +89,7 @@ Luning Prak:
 
 
 1. First study:
-    * antibody-generating B cells were poorly trained to make the immune proteins 
+    * Antibody-generating B cells were poorly trained to make the immune proteins 
     * B cells learn to make better antibodies
     * Proteins stays hidden in the gut after the virus 
     *Presence of the virus genetic in the stool of some infected people

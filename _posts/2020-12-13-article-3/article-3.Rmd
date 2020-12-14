@@ -1,7 +1,7 @@
 ---
 title: "Article 3: Chemists discover the structure of a key coronavirus protein"
 description: |
-  the discovery of the protein E in the SARS-CoV-2 virus. 
+  This article talks about the discovery of the protein E in the SARS-CoV-2 virus. 
 author:
   - name: Claudia Vastola
     url: {}
@@ -65,24 +65,24 @@ Chemists have determined the molecular structure of a protein found in the SARS-
 
 
 1. The binding sites of two drugs:
-    * block the channel but only weakly
-    * not be effective inhibitors of the E protein
+    * Block the channel but only weakly
+    * Not be effective inhibitors of the E protein
 2. Influenza B M2
-    * which taught them how to clone, express, and purify a virus membrane protein from scratch
-    * perfect training ground for studying SARS-CoV-2 E
+    * Which taught them how to clone, express, and purify a virus membrane protein from scratch
+    * Perfect training ground for studying SARS-CoV-2 E
     
 3. Clone and purify the E protein 
     * In two and half months
     * Structure:
-        - embedded it into a lipid bilayer and then analyzed it with NMR
-        - assembles into a bundle of five helice
-        - create a tight channel
+        - Embedded it into a lipid bilayer and then analyzed it with NMR
+        - Assembles into a bundle of five helice
+        - Create a tight channel
 4. Amino acids at one end of the channel that may attract positively charged ions (calcium) 
 5. Two drugs :
-    * amantadine, used to treat influenza
-    * hexamethylene amiloride, used to treat high blood pressure
-    * can block the entrance of the E channel
-    * but only weakly 
+    * Amantadine, used to treat influenza
+    * Hexamethylene amiloride, used to treat high blood pressure
+    * Can block the entrance of the E channel
+    * But only weakly 
 
 
     
@@ -91,8 +91,8 @@ Chemists have determined the molecular structure of a protein found in the SARS-
 The molecular structure of a protein in the SARS-CoV-2 virus:
 
 
-- forms a cation-selective channel
-- virus's ability to replicate itself 
+- Forms a cation-selective channel
+- Virus's ability to replicate itself 
     
     
 **Remaining questions**  How to block the channel? 

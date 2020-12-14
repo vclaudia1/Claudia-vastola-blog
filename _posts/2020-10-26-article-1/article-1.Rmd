@@ -85,7 +85,7 @@ The coronavirus SARS-CoV-2 and how he enters the cell.
 Coronavirus SARS-CoV-2:
 
 
-- infect cells via the receptor ACE2.
+- Infect cells via the receptor ACE2.
 - Facilitated entrance with neuropilin-1 
     
     
