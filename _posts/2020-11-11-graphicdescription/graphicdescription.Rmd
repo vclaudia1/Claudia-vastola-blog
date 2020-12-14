@@ -1,7 +1,7 @@
 ---
 title: "Graphic Description"
 description: |
-  A description of a graphic.
+  A description of a graphic of an urchin.
 categories:
   - Data Sciences I
 author:
@@ -19,13 +19,12 @@ SciViews::R
 ```
 
 ```{r importation}
-Zooplankton <- read("zooplankton", package = "data.io", lang = "AN")
+urchin_bio <- read("urchin_bio", package = "data.io", lang = "AN")
 ```
 
-The following graphic is about a zooplankton 
+The following graphic is about an urchin
 
 ```{r graphique}
-chart(data = zooplankton, size ~ class %col=% class) +
-  geom_violin() +
-  coord_flip()
+chart(data = urchin_bio, weight ~ origin %fill=% origin) +
+  geom_violin()
 ```
