@@ -30,9 +30,7 @@ Zooplankton <- read("zooplankton", package = "data.io", lang = "AN")
 The following graphic is about a zooplankton 
 
 ```{r graphique}
-chart(data = Zooplankton, ~ size %fill=% class ) +
-  geom_bar(width = 1) + 
-  coord_polar("y", start = 0) +
-  theme_void() +
-  scale_fill_viridis_d()
+chart(data = zooplankton, size ~ class %col=% class) +
+  geom_violin() +
+  coord_flip()
 ```
