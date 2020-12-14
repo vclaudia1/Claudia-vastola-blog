@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Graphic Description"
 description: |
-  A short description of the post.
+  A description of a graphic, in order to fulfill the “Data Science I” course instructions
 categories:
   - Coronavirus
   - Data Sciences I
@@ -19,12 +19,13 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+The following graphic is about a biometry
 
-```{r imporation}
- <- read("biometry", package = "BioDataScience1", lang = "FR")
+
+```{r importation}
+biometry <- read("biometry", package = "BioDataScience1", lang = "fr")
 ```
 
 ```{r graphique}
-Biometry <- read("biometry", package = "BioDataScience1", lang = "FR")
+chart()
 ```
-
