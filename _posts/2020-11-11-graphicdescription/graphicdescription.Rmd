@@ -1,7 +1,7 @@
 ---
 title: "Graphic Description"
 description: |
-  A description of a graphic of an urchin.
+  A description of a sea urchin' graphic.
 categories:
   - Data Sciences I
 author:
@@ -22,12 +22,15 @@ SciViews::R
 urchin_bio <- read("urchin_bio", package = "data.io", lang = "AN")
 ```
 
-The following graphic is about urchins
+The following graphic is about urchins. The difference in weight between the farm and the fishery sea urchins.
+A sea urchin is a small marine animal in the Echinodermata phylum that is spherical in shape and covered in spines.
 
 ```{r graphique}
 chart(data = urchin_bio, weight ~ origin %fill=% origin) +
   geom_violin()
 ```
-This graphic shows that wild sea urchins are less heavy then the farm urchins. 
+This graphic shows that wild sea urchins are less heavy than the farm urchins. 
 We can see that the fishery ones do not weight more than 75g and the farm ones can go up to 100g.
-
+Both of them are more likely to weight between 1 and 25g.
+The conclusion is that something affects the weight of the urchins.
+For exemple due to the different environment the farm are a little bigger than the fishery ones.

@@ -47,7 +47,7 @@
   {
     "path": "posts/2020-11-11-graphicdescription/",
     "title": "Graphic Description",
-    "description": "A description of a graphic of an urchin.",
+    "description": "A description of a sea urchin' graphic.",
     "author": [
       {
         "name": "Claudia Vastola",
@@ -59,7 +59,7 @@
       "Data Sciences I"
     ],
     "preview": "posts/2020-11-11-graphicdescription/graphicdescription_files/figure-html5/graphique-1.png",
-    "last_modified": "2020-12-15T00:48:09+01:00",
+    "last_modified": "2020-12-15T01:23:07+01:00",
     "preview_width": 1248,
     "preview_height": 768
   },
