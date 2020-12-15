@@ -19,6 +19,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Article 2 :Study confirms 'classic' symptoms of COVID-19
 
 
+![Coronavirus](//media/sf_shared/projects/Claudia-vastola-blog/image/corona.png)
+
+
 ## I – Source of the article with publication date and word count:
 
 
@@ -26,10 +29,6 @@ Source of the article:  <https://www.sciencedaily.com/releases/2020/06/200624100
 
 
 Word count: 425
-
-
-![Coronavirus](//media/sf_shared/projects/Claudia-vastola-blog/images/corona.png)
-
 
 ## II – Vocabulary: 
 
