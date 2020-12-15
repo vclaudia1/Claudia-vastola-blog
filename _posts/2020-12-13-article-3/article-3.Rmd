@@ -1,5 +1,5 @@
 ---
-title: "Article 3: Chemists discover the structure of a key coronavirus protein"
+title: "Article 3 : Chemists discover the structure of a key coronavirus protein"
 description: |
   This article talks about the discovery of the protein E in the SARS-CoV-2 virus. 
 author:
@@ -15,7 +15,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-## Article 3: Chemists discover the structure of a key coronavirus protein
+## Article 3 : Chemists discover the structure of a key coronavirus protein
 
 
 ![Protein E](///media/sf_shared/projects/Claudia-vastola-blog/image/proteine.png)

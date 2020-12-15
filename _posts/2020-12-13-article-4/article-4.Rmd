@@ -1,5 +1,5 @@
 ---
-title: "Article 4: Immunity to COVID-19 may persist six months or more"
+title: "Article 4 : Immunity to COVID-19 may persist six months or more"
 description: |
   This article talks about how the immunity in some patients is present even after six months.
 author:
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-## Article 4: Immunity to COVID-19 may persist six months or more
+## Article 4 : Immunity to COVID-19 may persist six months or more
 
 
 ## I – Source of the article with publication date and word count:
