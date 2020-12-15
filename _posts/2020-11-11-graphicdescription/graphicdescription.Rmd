@@ -32,5 +32,7 @@ chart(data = urchin_bio, weight ~ origin %fill=% origin) +
 This graphic shows that wild sea urchins are less heavy than the farm urchins. 
 We can see that the fishery ones do not weight more than 75g and the farm ones can go up to 100g.
 Both of them are more likely to weight between 1 and 25g.
+
+
 The conclusion is that something affects the weight of the urchins.
 For exemple due to the different environment the farm are a little bigger than the fishery ones.
