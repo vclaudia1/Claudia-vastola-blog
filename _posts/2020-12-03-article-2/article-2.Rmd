@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Article 2 :Study confirms 'classic' symptoms of COVID-19
 
 
-![Coronavirus](//media/sf_shared/projects/Claudia-vastola-blog/image/corona.png)
+![Coronavirus](../2020-12-03-article-2/images/corona.png)
 
 
 ## I – Source of the article with publication date and word count:

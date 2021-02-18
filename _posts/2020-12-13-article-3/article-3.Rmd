@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Article 3 : Chemists discover the structure of a key coronavirus protein
 
 
-![Protein E](../images/)
+![Protein E](../2020-12-13-article-3/images/proteine.png)
 
 
 ## I – Source of the article with publication date and word count:
