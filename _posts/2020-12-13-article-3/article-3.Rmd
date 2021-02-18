@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Article 3 : Chemists discover the structure of a key coronavirus protein
 
 
-![Protein E](///media/sf_shared/projects/Claudia-vastola-blog/image/proteine.png)
+![Protein E](../images/)
 
 
 ## I – Source of the article with publication date and word count:
