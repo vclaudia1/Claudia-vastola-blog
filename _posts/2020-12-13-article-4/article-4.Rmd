@@ -43,7 +43,11 @@ Word count: 972
 | **Latch onto** | cling | s'accrocher |
 | **Stool** | excrement | selles |
 | **Adorned** | decorate | orner |
-
+| **Antobodies** | Blood protein | Anticorps |
+| **Viral** | Infection caused by a virus | Viral |
+| **Immunity** | Invulnerability to disease | Immunité |
+| **Time Span** | Duration, period | Duréé |
+| **Infection** | Contagion | Infection |
 
 ## III – Analysis table about the study:
 
