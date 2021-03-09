@@ -34,21 +34,22 @@ Word count: 789
 
 | Word from the text | Synonym/definition in English | French translation | 
 |:----------:|:-------------:|:------:|
-| **Devise** | invent :idea, plan | imaginer, inventer |
-| **Postdoc** | postdoctoral | postdoctoral |
-| **Embedded** | set inside | enfoncé, incrusté |
-| **Influenza** | flu | grippe |
-| **Bundle** | bunch, group | paquet |
-| **Envelope**| That encloses | Envelloppe |
-| **Replicate** | Duplicate, copy | Reproduire |
-| **Stimulate** | Motivate | Stimulé |
-| **Pathogenicity** | The disease-producing capacity of a pathogen | Pathogénicité |
-| **Interfere** | Impede something | Interferer |
-| **Binding** | Ties | Liens |
-| **Inhibitors** | Drug that prevents a chemical reaction | Inhibiteurs |
-| **Narrowed** | Not wide | Rétréci |
-| **Domain** | Area of interest | Domaine|
+| **Binding** | Ties | liens |
+| **Bundle** | Bunch, group | paquet |
+| **Devise** | Invent: idea, plan | imaginer, inventer |
+| **Domain** | Area of interest | domaine|
+| **Embedded** | Set inside | enfoncé, incrusté |
+| **Envelope**| That encloses | envelloppe |
+| **Influenza** | Flu | grippe |
+| **Inhibitors** | Drug that prevents a chemical reaction | inhibiteurs |
+| **Interfere** | Impede something | interferer |
+| **Narrowed** | Not wide | rétréci |
+| **Pathogenicity** | The disease-producing capacity of a pathogen | pathogénicité |
+| **Postdoc** | Postdoctoral | postdoctoral |
+| **Replicate** | Duplicate, copy | reproduire |
 | **Shed Light** | Be a source of illumination | éclaire |
+| **Stimulate** | Motivate | stimulé |
+
 
 ## III – Analysis table about the study:
 

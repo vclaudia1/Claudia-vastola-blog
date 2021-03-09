@@ -34,21 +34,21 @@ Word count: 783
 
 | Word from the text | Synonym/definition in English | French translation | 
 |:----------:|:-------------:|:------:|
-| **SARS-CoV-2** | Severe acute respiratory syndrome coronavirus 2 | SARS-CoV-2 |
-| **ACE2** | Angiotensin-converting enzyme 2 | ACE2 |
-| **Neuropilin -1** | protein that in humans is encoded by the NRP1 gene | Neuropilin-1 |
-| **outbreak** | a sudden occurrence or appearance | Déclenchement/poussée |
-| **Viral shedding** | expulsion and release of virus progeny following successful reproduction during a host-cell infection | excrétion virale |
-| **tropism** | indicating a tendency to turn or develop in response to a certain stimulus | tropisme |
+| **ACE2** | Angiotensin-converting enzyme 2 | ACE2|
+| **Cleavage** | Split | clivage |
 | **Docking sites** | The substrate specificities of protein kinases have been found, in many cases, to be determined at least in part by short regions within the substrate | sites d'amarrages |
-| **furin** | Enzyme that in humans is encoded by the FURIN gene | furine |
-| **Thus** | in the way just indicated | Par conséquent |
+| **Furin** | Enzyme that in humans is encoded by the FURIN gene | furine |
+| **Neuropilin -1** | protein that in humans is encoded by the NRP1 gene | Neuropilin-1 |
+| **Outbreak** | a sudden occurrence or appearance | déclenchement/poussée |
+| **Pathogenic** | That causes disease | pathogène |
+| **Pathway** | Path | voie, chemin |
+| **SARS-CoV-2** | Severe acute respiratory syndrome coronavirus 2 | SARS-CoV-2 |
 | **Spectrum** | figuratif (range of something) | éventail |
-| **Pathogenic** | That causes disease | Pathogène |
-| **Cleavage** | Split | Clivage |
-| **Vessels** | Blood vessels | Vesseaux |
-| **Pathway** | Path | Voie, chemin |
-| **Speculate** | Make guesses about | Spéculer sur |
+| **Speculate** | Make guesses about | spéculer sur |
+| **Thus** | in the way just indicated | par conséquent |
+| **Tropism** | indicating a tendency to turn or develop in response to a certain stimulus | tropisme |
+| **Vessels** | Blood vessels | vesseaux |
+| **Viral shedding** | expulsion and release of virus progeny following successful reproduction during a host-cell infection | excrétion virale |
 
 
 ## III – Analysis table about the study:

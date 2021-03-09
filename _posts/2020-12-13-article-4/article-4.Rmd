@@ -33,21 +33,22 @@ Word count: 972
 
 | Word from the text | Synonym/definition in English | French translation | 
 |:----------:|:-------------:|:------:|
-| **Uncovering** | act or revealing | découverte |
-| **To refine** | process: improve | affiner |
-| **Bodes** | protend | présager |
-| **Cache** | to hide or store in a cache | cache |
-| **Arsenal** | a collection or supply of anything; store | arsenal |
-| **Waned** | decline over time | décliner |
-| **Assessment** | evaluation | estimation |
-| **Latch onto** | cling | s'accrocher |
-| **Stool** | excrement | selles |
-| **Adorned** | decorate | orner |
-| **Antobodies** | Blood protein | Anticorps |
-| **Viral** | Infection caused by a virus | Viral |
-| **Immunity** | Invulnerability to disease | Immunité |
-| **Time Span** | Duration, period | Duréé |
-| **Infection** | Contagion | Infection |
+| **Adorned** | Decorate | orner |
+| **Antibodies** | Blood protein | anticorps |
+| **Arsenal** | A collection or supply of anything; store | arsenal |
+| **Assessment** | Evaluation | estimation |
+| **Bodes** | Protend | présager |
+| **Cache** | To hide or store in a cache | cache |
+| **Immunity** | Invulnerability to disease | immunité |
+| **Infection** | Contagion | infection |
+| **Latch onto** | Cling | s'accrocher |
+| **Stool** | Excrement | selles |
+| **Time Span** | Duration, period | duréé |
+| **To refine** | Process: improve | affiner |
+| **Uncovering** | Act or revealing | découverte |
+| **Viral** | Infection caused by a virus | viral |
+| **Waned** | Decline over time | décliner |
+
 
 ## III – Analysis table about the study:
 

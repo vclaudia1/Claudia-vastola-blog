@@ -35,21 +35,22 @@ Word count: 425
 
 | Word from the text | Synonym/definition in English | French translation | 
 |:----------:|:-------------:|:------:|
+| **Ability** | Capacity | capacité |
+| **According** | Grant | accorder à |
+| **Acknowledge** | Recognise | reconnaitre |
+| **Combined** | United, joined | combiné |
+| **Data** | Information | données |
+| **Display** | Demonstration | démonstration |
+| **Ensures** | Secure,garantee | assurer |
+| **Extra-corporeal** | Occurring or situated outside the body, as a heart-lung machine used to oxygenate the blood during surgery | extracorporel |
+| **Identify** | Recognize | identifier |
+| **Intense care unit** | The specialized center in a hospital where intensive care is provided. | unité de soins intensifs |
+| **Pandemic** | Widespread disease | pandemie |
+| **Persistent** | Constant | persistant |
+| **Prevalence** | Having greater power | dominant, prévalence |
 | **Ratifies** | Confirm, approve | ratifier |
-| **Acknowledge** | recognise | reconnaitre |
-| **prevalence** | having greater power | dominant, prévalence |
-| **Intense care unit** | the specialized center in a hospital where intensive care is provided. | unité de soins intensifs |
-| **Ensures** | secure,garantee | assurer |
-| **Extra-corporeal** | occurring or situated outside the body, as a heart-lung machine used to oxygenate the blood during surgery | extracorporel |
-| **Persistent** | Constant | Persistant |
-| **According** | Grant | Accorder à |
-| **Pandemic** | Widespread disease | Pandemie |
-| **Combined** | United, joined | Combiné |
-| **Data** | Information | Données |
-| **Identify** | Recognize | Identifier |
-| **Display** | Demonstration | Démonstration |
-| **Ability** | Capacity | Capacité |
-| **Treatment** | (Handling) | Traitement |
+| **Treatment** | (Handling) | traitement |
+
 
 
 ## III – Analysis table about the study:
