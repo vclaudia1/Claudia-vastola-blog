@@ -42,7 +42,7 @@ Word count: 789
 | **Envelope**| That encloses | Envelloppe |
 | **Replicate** | Duplicate, copy | Reproduire |
 | **Stimulate** | Motivate | Stimulé |
-| **Pathogenicity** | Te disease-producing capacity of a pathogen | Pathogénicité |
+| **Pathogenicity** | The disease-producing capacity of a pathogen | Pathogénicité |
 | **Interfere** | Impede something | Interferer |
 | **Binding** | Ties | Liens |
 | **Inhibitors** | Drug that prevents a chemical reaction | Inhibiteurs |
