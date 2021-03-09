@@ -41,6 +41,15 @@ Word count: 425
 | **Intense care unit** | the specialized center in a hospital where intensive care is provided. | unité de soins intensifs |
 | **Ensures** | secure,garantee | assurer |
 | **Extra-corporeal** | occurring or situated outside the body, as a heart-lung machine used to oxygenate the blood during surgery | extracorporel |
+| **Persistent** | Constant | Persistant |
+| **According** | Grant | Accorder à |
+| **Pandemic** | Widespread disease | Pandemie |
+| **Combined** | United, joined | Combiné |
+| **Data** | Information | Données |
+| **Identify** | Recognize | Identifier |
+| **Display** | Demonstration | Démonstration |
+| **Ability** | Capacity | Capacité |
+| **Treatment** | (Handling) | Traitement |
 
 
 ## III – Analysis table about the study:
