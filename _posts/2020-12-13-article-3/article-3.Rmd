@@ -39,7 +39,16 @@ Word count: 789
 | **Embedded** | set inside | enfoncé, incrusté |
 | **Influenza** | flu | grippe |
 | **Bundle** | bunch, group | paquet |
-
+| **Envelope**| That encloses | Envelloppe |
+| **Replicate** | Duplicate, copy | Reproduire |
+| **Stimulate** | Motivate | Stimulé |
+| **Pathogenicity** | Te disease-producing capacity of a pathogen | Pathogénicité |
+| **Interfere** | Impede something | Interferer |
+| **Binding** | Ties | Liens |
+| **Inhibitors** | Drug that prevents a chemical reaction | Inhibiteurs |
+| **Narrowed** | Not wide | Rétréci |
+| **Domain** | Area of interest | Domaine|
+| **Shed Light** | Be a source of illumination | éclaire |
 
 ## III – Analysis table about the study:
 
