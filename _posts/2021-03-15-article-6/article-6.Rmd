@@ -55,8 +55,8 @@ Word count: 586
 **Researchers?** 
 
 
-Ragon Institute of MGH, MIT and Harvard and Massachusetts General Hospital.
-Alejandro Balazs
+    * Ragon Institute of MGH, MIT and Harvard and Massachusetts General Hospital.
+    * Alejandro Balazs
 
 
 **Published in? when (if mentioned)?**  

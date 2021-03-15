@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2021-03-15-article-7/",
+    "title": "Article 7: Covid blood protein offers clues for treatments ",
+    "description": "This article talks about an inflammatory protein found higher in the blood of dead patients.",
+    "author": [
+      {
+        "name": "Claudia Vastola",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-15",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-15T19:40:49+01:00"
+  },
+  {
     "path": "posts/2021-03-15-article-6/",
     "title": "Article 6: Vaccine-induced antibodies may be less effective against several new SARS-CoV-2 variants",
     "description": "This article talks about the efficacy of the vaccine on the new variants.",
@@ -12,22 +27,7 @@
     "date": "2021-03-14",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-03-15T10:40:37+01:00"
-  },
-  {
-    "path": "posts/2021-03-15-article-7/",
-    "title": "Article 7: Covid blood protein offers clues for treatments ",
-    "description": "This article talks about",
-    "author": [
-      {
-        "name": "Claudia Vastola",
-        "url": {}
-      }
-    ],
-    "date": "2021-03-15",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2021-03-15T11:46:39+01:00"
+    "last_modified": "2021-03-15T19:39:34+01:00"
   },
   {
     "path": "posts/2021-03-15-article-5/",
@@ -42,7 +42,7 @@
     "date": "2021-03-13",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-03-15T10:17:07+01:00"
+    "last_modified": "2021-03-15T19:40:52+01:00"
   },
   {
     "path": "posts/2020-12-13-article-4/",
