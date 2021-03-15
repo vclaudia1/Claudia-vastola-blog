@@ -53,12 +53,11 @@ Word count: 859
 | **Viral Loads** | Amount of a virus in body fluid | charge viral |
 
 
-
-
 ## III – Analysis table about the study:
 
 
 **Researchers?** 
+
 
 Marm Kilpatrick (infectious diseases researcher) University of California (Santa Cruz)
 Ella Petter, (computational biologist) Or Yehuda (Israel)
