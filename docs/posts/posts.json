@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2021-03-15-article-5/",
+    "title": "Article 5: Pfizer’s vaccine appears to reduce coronavirus transmission",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Claudia Vastola",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-13",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-15T09:56:51+01:00"
+  },
+  {
     "path": "posts/2020-12-13-article-4/",
     "title": "Article 4 : Immunity to COVID-19 may persist six months or more",
     "description": "This article talks about how the immunity in some patients is present even after six months.",

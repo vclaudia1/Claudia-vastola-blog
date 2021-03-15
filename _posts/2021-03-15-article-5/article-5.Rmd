@@ -1,0 +1,106 @@
+---
+title: "Article 5: Pfizer’s vaccine appears to reduce coronavirus transmission"
+description: |
+  A short description of the post.
+author:
+  - name: Claudia Vastola
+    url: {}
+date: 03-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Article 2 :Study confirms 'classic' symptoms of COVID-19
+
+
+![Vaccine](../)
+
+
+## I – Source of the article with publication date and word count:
+
+
+Source of the article:  <https://www.sciencenews.org/article/coronavirus-covid-19-pfizer-vaccine-may-reduce-transmission> (12/02/2021)
+
+
+Word count: 859
+
+## II – Vocabulary: 
+
+
+| Word from the text | Synonym/definition in English | French translation | 
+|:----------:|:-------------:|:------:|
+| **Aerosols** | Pressurized gas | aérosol |
+| **Boost** | Promote, support | stimuler |
+| **Computational** | Involving calculation | informatique, statistique |
+| **Curb** | Limit, restrict | maitriser, modérer |
+| **Droplets** | Small drop of fluid | gouttelette |
+| **Genealogy** | Study of ancestry | généalogie |
+| **Grasp** | Understanding | compréhension |
+| **Harbor** | Shelter secretly | donner asile à |
+| **Preliminary** | Preparatory | préliminaire |
+| **Rollout** | Introduce something new to public | lancer |
+| **Snapshot** | Depicts momentary condition | aperçu |
+| **Swath** | Figurative (strip, trail) | bande, zone |
+| **Swiftly** | Quickly | rapidement |
+| **Transmission** | Something transmitted | transmission |
+| **Viral Loads** | Amount of a virus in body fluid | charge viral |
+
+
+
+
+## III – Analysis table about the study:
+
+
+**Researchers?** 
+
+University of Leeds with colleagues from the University of Sheffield, University of Bristol, Imperial College, London, and the Belgium Cancer Centre.
+
+
+**Published in? when (if mentioned)?**  
+
+
+Journal PLoS ONE 
+
+
+**General topic**  
+
+
+A persistent cough and fever have been confirmed as the most prevalent symptoms associated with COVID-19, according to a major review of the scientific literature.
+
+
+**Procedure/what was examined** 
+
+
+1. 148 separate studies (more than 21,000 patients from nine countries) :
+    * 78 percent had a fever
+    * 57 percent reported a cough
+    * 31 percent said they had suffered fatigue
+    * 25 percent lost the ability to smell
+    * 23 percent reported difficulty breathing
+2. Hospital treatment :
+    * 17 percent neede non invasive help with their breathing 
+    * 19 percent had to be in the intensive care unit
+    * 9 percent required invasive ventilation 
+    * 2 percent needed an artificial lung
+
+
+
+**Conclusions/discovery**   
+
+ 
+The most prevalent symptoms are : 
+
+
+* Cough
+* Fever
+* Fatigue
+* Losing the ability to smell
+* Difficulty in breathing 
+ 
+ 
+**Remaining questions**   ///
