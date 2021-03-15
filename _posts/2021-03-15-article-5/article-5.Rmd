@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Article 2 :Study confirms 'classic' symptoms of COVID-19
+## Article 5 :Pfizer’s vaccine appears to reduce coronavirus transmission
 
 
 ![Vaccine](../)
@@ -58,49 +58,44 @@ Word count: 859
 
 **Researchers?** 
 
-University of Leeds with colleagues from the University of Sheffield, University of Bristol, Imperial College, London, and the Belgium Cancer Centre.
+Marm Kilpatrick (infectious diseases researcher) University of California (Santa Cruz)
+Ella Petter, (computational biologist) Or Yehuda (Israel)
 
 
 **Published in? when (if mentioned)?**  
 
 
-Journal PLoS ONE 
+medRxiv.org (February 8 2021).
 
 
 **General topic**  
 
 
-A persistent cough and fever have been confirmed as the most prevalent symptoms associated with COVID-19, according to a major review of the scientific literature.
+Vaccinated people tend to carry less virus in their bodies than unvaccinated people and can curb the coronavirus’s spread, not just prevent people from getting seriously ill. 
 
 
 **Procedure/what was examined** 
 
 
-1. 148 separate studies (more than 21,000 patients from nine countries) :
-    * 78 percent had a fever
-    * 57 percent reported a cough
-    * 31 percent said they had suffered fatigue
-    * 25 percent lost the ability to smell
-    * 23 percent reported difficulty breathing
-2. Hospital treatment :
-    * 17 percent neede non invasive help with their breathing 
-    * 19 percent had to be in the intensive care unit
-    * 9 percent required invasive ventilation 
-    * 2 percent needed an artificial lung
+* People vaccinated with Pfizer’s shots and who still get infected with the coronavirus carry less virus in their bodies
+1. Clinical trial:
+    * Pfizer’s vaccine had 95 percent efficacy to prevent COVID-19 symptoms
+    * Comparison of the levels of virus in more than 15,000 coronavirus test samples
+    * Samples that tested positive for the coronavirus from people over age 60 had lower levels of the coronavirus
+    * Use of computational analyses 
 
+2. In a separate study:
+    * People who got infected within the 12 days following their first Pfizer shot and had little to no protection against COVID-19 have more coronavirus in the body 
+
+3. Past studies:
+    * When there is less virus in the body, a person is less likely to pass on coronavirus to others compared with people with a higher viral load. 
+    * Vaccinated people who still get infected have less virus than unvaccinated people
 
 
 **Conclusions/discovery**   
 
  
-The most prevalent symptoms are : 
-
-
-* Cough
-* Fever
-* Fatigue
-* Losing the ability to smell
-* Difficulty in breathing 
+Pfizer’s vaccine might reduce the spread of coronavirus.
  
  
 **Remaining questions**   ///
