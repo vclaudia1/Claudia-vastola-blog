@@ -1,0 +1,85 @@
+---
+title: "Article 7: Covid blood protein offers clues for treatments "
+description: |
+ This article talks about 
+author:
+  - name: Claudia Vastola
+    url: {}
+date: 03-15-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Article 7 : Covid blood protein offers clues for treatments  
+
+
+## I – Source of the article with publication date and word count:
+
+
+Source of the article:  <https://www.bbc.com/news/health-56352128> (11/03/2021)
+
+
+Word count: 379
+
+
+## II – Vocabulary: 
+
+
+| Word from the text | Synonym/definition in English | French translation | 
+|:----------:|:-------------:|:------:|
+| **Covid-19** | Illness caused by SARS-CoV-2 virus | covid-19|
+| **Dampening** | make slightly wet | humecter |
+| **Drugs** | Medicine | médicament |
+| **GM-CFS** | Protein | GM-CFS proteine|
+| **Harm** | Damage | abimer |
+| **Immunology** | Science of the immune system | immunologie |
+| **Immunosuppressive** | Drug to weaken immune system | immuosuppressive |
+| **Lungs** | Organ | poumons |
+| **Pinpoint** | Show exact cause | identifier |
+| **Steroids** | Steroid drug | stéroide |
+| **Swine flu** | H1N1 strain of influenza | grippe porcine |
+| **Therapy** | Treatment | thérapie |
+| **Trialled** | Experimental attempt | essai |
+| **Virus** | Infectious life form | virus |
+| **Whether** | Regardless of which | que |
+
+
+## III – Analysis table about the study:
+
+
+**Researchers?** 
+
+
+
+
+
+**Published in? when (if mentioned)?**  
+
+
+
+
+
+**General topic**  
+
+
+
+
+
+**Procedure/what was examined** 
+
+
+    
+
+
+**Conclusions/discovery**   
+
+ 
+
+ 
+ 
+**Remaining questions**   ///
