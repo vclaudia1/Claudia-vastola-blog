@@ -55,8 +55,8 @@ Word count: 586
 **Researchers?** 
 
 
-    * Ragon Institute of MGH, MIT and Harvard and Massachusetts General Hospital.
-    * Alejandro Balazs
+* Ragon Institute of MGH, MIT and Harvard and Massachusetts General Hospital.
+* Alejandro Balazs
 
 
 **Published in? when (if mentioned)?**  
@@ -74,14 +74,14 @@ Researchers find that neutralizing antibodies raised by COVID-19 vaccines are no
 **Procedure/what was examined** 
 
 
-    * Neutralizing antibodies induced by the Pfizer and Moderna COVID-19 vaccines were significantly less effective against the variants 
-    * Measuring HIV neutralizing antibodies to create similar assays for COVID-19 
-    * Comparing how well the antibodies worked against the original strain versus the new variants.
-    * Binding tightly to the virus and blocking it from entering cells, thus preventing infection.
-    * Mutations in a specific part of the spike protein called the receptor binding domain were more likely to help the virus resist the neutralizing antibodies
-    * Vaccines work by teaching the body to produce an immune response, including antibodies, against the SARS-CoV-2 spike protein. 
-    * The ability of these variants to resist neutralizing antibodies is concerning
-    * The virus is expected to continue to mutate as it spreads.
+* Neutralizing antibodies induced by the Pfizer and Moderna COVID-19 vaccines were significantly less effective against the variants 
+* Measuring HIV neutralizing antibodies to create similar assays for COVID-19 
+* Comparing how well the antibodies worked against the original strain versus the new variants.
+* Binding tightly to the virus and blocking it from entering cells, thus preventing infection.
+* Mutations in a specific part of the spike protein called the receptor binding domain were more likely to help the virus resist the neutralizing antibodies
+* Vaccines work by teaching the body to produce an immune response, including antibodies, against the SARS-CoV-2 spike protein. 
+* The ability of these variants to resist neutralizing antibodies is concerning
+* The virus is expected to continue to mutate as it spreads.
 
 
 **Conclusions/discovery**   

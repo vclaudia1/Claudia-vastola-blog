@@ -55,10 +55,9 @@ Word count: 379
 **Researchers?** 
 
 
-    * UK scientists 
-    * Dr Kenneth Baillie, at the University of Edinburgh 
-    * Professor Peter Openshaw, of Imperial College London,
-
+* UK scientists 
+* Dr Kenneth Baillie, at the University of Edinburgh 
+* Professor Peter Openshaw, of Imperial College London,
 
 
 **Published in? when (if mentioned)?**  
@@ -76,18 +75,18 @@ The protein GM-CSF  was found to be nearly 10 times higher in patients who died 
 **Procedure/what was examined** 
 
 
-    * They analysed the blood samples from 470 patients admitted to hospital with Covid-19 in the UK, 
-    * They compared them with samples from people with mild coronavirus, healthy people and stored samples from people who had previously had swine flu.
-    * Patients with severe Covid-19 we're building a clearer picture of lung disease in Covid-19. 
-    * Lungs are being damaged by the patient's own immune system rather than directly being damaged by the virus
+* They analysed the blood samples from 470 patients admitted to hospital with Covid-19 in the UK, 
+* They compared them with samples from people with mild coronavirus, healthy people and stored samples from people who had previously had swine flu.
+* Patients with severe Covid-19 we're building a clearer picture of lung disease in Covid-19. 
+* Lungs are being damaged by the patient's own immune system rather than directly being damaged by the virus
 
 
 
 **Conclusions/discovery**   
 
  
-    * A key inflammatory protein that rises in the blood of patients with severe Covid-19.
-    * Several drugs that target GM-CSF are being trialled but none have yet been approved for use.
+* A key inflammatory protein that rises in the blood of patients with severe Covid-19.
+* Several drugs that target GM-CSF are being trialled but none have yet been approved for use.
 
  
  
