@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Article 5 :Pfizer’s vaccine appears to reduce coronavirus transmission
+## Article 5 : Pfizer’s vaccine appears to reduce coronavirus transmission
 
 
 ![Vaccine](../2021-03-15-article-5/Images/vaccine.png)

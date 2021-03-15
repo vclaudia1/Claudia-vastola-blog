@@ -1,0 +1,93 @@
+---
+title: "Article 6: Vaccine-induced antibodies may be less effective against several new SARS-CoV-2 variants"
+description: |
+ This article talks about the efficacy of the vaccine on the new variants.
+author:
+  - name: Claudia Vastola
+    url: {}
+date: 03-14-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Article 6 : Vaccine-induced antibodies may be less effective against several new SARS-CoV-2 variants
+
+
+## I – Source of the article with publication date and word count:
+
+
+Source of the article:  <https://www.sciencedaily.com/releases/2021/03/210312140013.htm> (12/03/2021)
+
+
+Word count: 586
+
+
+## II – Vocabulary: 
+
+
+| Word from the text | Synonym/definition in English | French translation | 
+|:----------:|:-------------:|:------:|
+| **Assays** | Test, assessment | évaluation |
+| **Broadly** | In general | généralement |
+| **Department** | Division of organization | rayon; département |
+| **Derived** | Developed from | dérivé |
+| **Induced** | Cause by the thing specified | provoqué par |
+| **Leverage** | Use to advantage | tirer profit de |
+| **Mutations** | Genetic variation | mutation |
+| **Neutralizing** | Counteract, negate | neutraliser |
+| **Pathology** | Study of disease | pathologie |
+| **Preventative** | Precautionary | préventif |
+| **Strain** | Variant of virus | souche |
+| **Throughout** | Time: during all of | tout au long de |
+| **Throughput** | Work rate | flux de production |
+| **Variants** | Different form | variante |
+| **Vital** | Necessary | vital, indispensable |
+
+
+## III – Analysis table about the study:
+
+
+**Researchers?** 
+
+
+Ragon Institute of MGH, MIT and Harvard and Massachusetts General Hospital.
+Alejandro Balazs
+
+
+**Published in? when (if mentioned)?**  
+
+
+Cell
+
+
+**General topic**  
+
+
+Researchers find that neutralizing antibodies raised by COVID-19 vaccines are not as effective at neutralizing some new, circulating SARS-CoV-2 variants.
+
+
+**Procedure/what was examined** 
+
+
+    * Neutralizing antibodies induced by the Pfizer and Moderna COVID-19 vaccines were significantly less effective against the variants 
+    * Measuring HIV neutralizing antibodies to create similar assays for COVID-19 
+    * Comparing how well the antibodies worked against the original strain versus the new variants.
+    * Binding tightly to the virus and blocking it from entering cells, thus preventing infection.
+    * Mutations in a specific part of the spike protein called the receptor binding domain were more likely to help the virus resist the neutralizing antibodies
+    * Vaccines work by teaching the body to produce an immune response, including antibodies, against the SARS-CoV-2 spike protein. 
+    * The ability of these variants to resist neutralizing antibodies is concerning
+    * The virus is expected to continue to mutate as it spreads.
+
+
+**Conclusions/discovery**   
+
+ 
+The vaccines can be effective on the new variants but it’s not a certainty.
+ 
+ 
+**Remaining questions**   ///
