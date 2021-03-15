@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Article 5 :Pfizer’s vaccine appears to reduce coronavirus transmission
 
 
-![Vaccine](../)
+![Vaccine](../2021-03-15-article-5/Images/vaccine.png)
 
 
 ## I – Source of the article with publication date and word count:
@@ -29,7 +29,6 @@ Source of the article:  <https://www.sciencenews.org/article/coronavirus-covid-1
 
 Word count: 859
 
-![Vaccine](../2021-03-15-article-5/images/vaccine.png)
 
 ## II – Vocabulary: 
 
