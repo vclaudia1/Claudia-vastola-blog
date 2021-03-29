@@ -32,21 +32,21 @@ Word count: 592
 
 | Word from the text | Synonym/definition in English | French translation | 
 |:----------:|:-------------:|:------:|
-| **Robust** | Strong | robuste |
-| **Lactating** | Breastfeed,produce milk | sécréter du lait |
-| **Confer** | Give | conférer |
-| **Placenta** | Organ that nourished unborn baby | placenta |
 | **Adverse** | Of oppisite direction | contraire |
-| **Titers** | Concentration of anntibody | titre |
-| **Fetal** | Of a fetus | foetal |
-| **Eager** | Keen, desirous | avoir hâte de faire |
-| **Umbilical cord** | Birth cord from foetus to placenta | cordon ombilical |
 | **Catalyze** | Cause to start | initier |
-| **Infants** | Baby | nourrisson, bébé |
-| **Simultaneously** | At the same time | simultanément |
+| **Confer** | Give | conférer |
+| **Eager** | Keen, desirous | avoir hâte de faire |
 | **Elicited** | Reaction | susciter, provoquer |
+| **Fetal** | Of a fetus | foetal |
+| **Infants** | Baby | nourrisson, bébé |
+| **Lactating** | Breastfeed,produce milk | sécréter du lait |
 | **Mucosal** | Relating to mucosa | muqueuse |
 | **Obstetrician** | Doctor: childbirth specialist | obstétricien(ne)|
+| **Placenta** | Organ that nourished unborn baby | placenta |
+| **Robust** | Strong | robuste |
+| **Simultaneously** | At the same time | simultanément |
+| **Titers** | Concentration of anntibody | titre |
+| **Umbilical cord** | Birth cord from foetus to placenta | cordon ombilical |
 
 
 
