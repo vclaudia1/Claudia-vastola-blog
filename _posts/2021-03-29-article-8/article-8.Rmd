@@ -18,6 +18,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Article 8 : Pregnant women show robust immune response to COVID vaccines, pass antibodies to newborns
 
 
+![Pregnant](../2021-03-29-article-8/images/pregnant.png)
+
+
 ## I – Source of the article with publication date and word count:
 
 
