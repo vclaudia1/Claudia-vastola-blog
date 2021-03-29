@@ -1,0 +1,92 @@
+---
+title: "Article 8: Pregnant women show robust immune response to COVID vaccines, pass antibodies to newborns"
+description: |
+  This article talks about the transmission of the antobodies between the mom and his baby.
+author:
+  - name: Claudia Vastola
+    url: {}
+date: 03-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Article 8 : Pregnant women show robust immune response to COVID vaccines, pass antibodies to newborns
+
+
+## I – Source of the article with publication date and word count:
+
+
+Source of the article:  <https://www.sciencedaily.com/releases/2021/03/210325150127.htm> (25/03/2021)
+
+
+Word count: 592
+
+
+## II – Vocabulary: 
+
+
+| Word from the text | Synonym/definition in English | French translation | 
+|:----------:|:-------------:|:------:|
+| **Robust** | Strong | robuste |
+| **Lactating** | Breastfeed,produce milk | sécréter du lait |
+| **Confer** | Give | conférer |
+| **Placenta** | Organ that nourished unborn baby | placenta |
+| **Adverse** | Of oppisite direction | contraire |
+| **Titers** | Concentration of anntibody | titre |
+| **Fetal** | Of a fetus | foetal |
+| **Eager** | Keen, desirous | avoir hâte de faire |
+| **Umbilical cord** | Birth cord from foetus to placenta | cordon ombilical |
+| **Catalyze** | Cause to start | initier |
+| **Infants** | Baby | nourrisson, bébé |
+| **Simultaneously** | At the same time | simultanément |
+| **Elicited** | Reaction | susciter, provoquer |
+| **Mucosal** | Relating to mucosa | muqueuse |
+| **Obstetrician** | Doctor: childbirth specialist | obstétricien(ne)|
+
+
+
+## III – Analysis table about the study:
+
+
+**Researchers?** 
+
+
+* Massachusetts General Hospital
+* Brigham and Women's Hospital 
+* Ragon Institute of MGH, MIT and Harvard
+
+
+**Published in? when (if mentioned)?**  
+
+
+American Journal of Obstetrics and Gynecology (AJOG)
+
+
+**General topic**  
+
+
+The new COVID-19 vaccines is highly effective in producing antibodies against the virus in pregnant and lactating women and is giving protective immunity to newborns through breastmilk and the placenta.
+
+
+**Procedure/what was examined** 
+
+
+* 131 women of reproductive age (84 pregnant, 31 lactating and 16 non-pregnant) that received one of the new vaccines: 
+* The vaccine-induced titers were equivalent in all three groups
+* individuals who are pregnant are more likely to become severely ill with COVID-19, require hospitalization, intensive care or ventilation 
+* Vaccine-generated antibodies were also present in all umbilical cord blood and breastmilk samples 
+
+
+**Conclusions/discovery**   
+
+ 
+The vaccine can be transmitted from the mom to his baby by breastmilk and by the placenta
+ 
+ 
+**Remaining questions**   ///
+
