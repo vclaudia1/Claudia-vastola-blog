@@ -2,7 +2,7 @@
   {
     "path": "posts/2021-04-13-bibliography/",
     "title": "Bibliography",
-    "description": "A short description of the post.",
+    "description": {},
     "author": [
       {
         "name": "Claudia Vastola",
@@ -12,7 +12,7 @@
     "date": "2021-04-13",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-04-13T14:39:31+02:00"
+    "last_modified": "2021-04-13T14:40:19+02:00"
   },
   {
     "path": "posts/2021-03-29-article-8/",
