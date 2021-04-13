@@ -1,0 +1,19 @@
+---
+title: "Conclusion"
+description: |
+ 
+author:
+  - name: Claudia Vastola
+    url: {}
+date: 04-12-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
