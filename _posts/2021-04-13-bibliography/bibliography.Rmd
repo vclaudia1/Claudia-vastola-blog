@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Articles:
+**Articles:**
 
 
 1.	<https://www.sciencedaily.com/releases/2020/10/201020105526.htm>
@@ -28,7 +28,7 @@ Articles:
 8.	<https://www.sciencedaily.com/releases/2021/03/210325150127.htm>
 
 
-Vocabulary:
+**Vocabulary:**
 
 
 <https://www.wordreference.com/>
