@@ -1,7 +1,7 @@
 ---
 title: "Bibliography"
 description: |
-  
+  ...
 author:
   - name: Claudia Vastola
     url: {}
