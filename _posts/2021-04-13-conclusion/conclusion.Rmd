@@ -14,6 +14,19 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+While exploring the subject of Corona virus for this Portfolio, I found myself very much acknowledged on a topic that nowadays represents the main issue for our societies.
+
+
+COVID-19 is, at the same time, a simple but very complex virus. Moreover, it is an RNA virus which made it even more challenging to identify its genetic compositions and therefore a cure.
+
+
+It was genuinely interesting to read and analyze different articles and research achieved by scientists, and that was even more exiting due to the fact that new studies would surface every day as the issue is very actual.
+
+
+It has been challenging to choose the "right" articles because each one of them tackles a different side of the subject.
+
+
+There is still a lot more to learn about Corona virus, nevertheless I believe that someday populations will be able to progressively return to a more normal lifestyle, starting from little things like hugging each other’s again.
 
 
 
